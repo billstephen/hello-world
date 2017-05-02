@@ -1,7 +1,7 @@
 # hello-world
 <html>
-<body>
-
+<head>
+<style>
 body {
     background-color: lightblue;
 }
@@ -15,6 +15,9 @@ p {
     font-family: verdana;
     font-size: 20px;
 }
+</style>
+</head>
+<body>
 
 <h> Just another repository </h>
 
@@ -22,5 +25,5 @@ p {
 
 <p2> Thank you! Have a bright day! </p2>
 
-<body>
-<html>
+</body>
+</html>
